@@ -123,8 +123,6 @@ Grid-Centric Traffic Scenario Perception for Autonomous Driving: A Comprehensive
 
 
 
-
-
 ## Open source projects
 
 OpenOcc
@@ -134,8 +132,6 @@ OpenOcc
 The-Eyes-Have-It
 
 [[projects]](https://github.com/cheukcat/The-Eyes-Have-It)
-
-
 
 
 
@@ -153,3 +149,4 @@ This repository was mainly written by Rujia Wang.
 
 If you have any questions about the paper list, please do not hesitate to email [me](a3081246384@163.com) or open an issue on GitHub.
 
+## TODO
