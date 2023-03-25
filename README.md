@@ -147,8 +147,6 @@ Occupancy Network综述！Grid-Centric的感知方法（BEV/多任务/轨迹预�
 
 
 
-
-
 ## Postscript
 
 This repository was mainly written by Rujia Wang.
