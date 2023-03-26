@@ -123,6 +123,8 @@ Grid-Centric Traffic Scenario Perception for Autonomous Driving: A Comprehensive
 
 
 
+
+
 ## Open source projects
 
 OpenOcc
@@ -135,11 +137,15 @@ The-Eyes-Have-It
 
 
 
+
+
 ## 自动驾驶之心论文解读
 
 Occupancy Network综述！Grid-Centric的感知方法（BEV/多任务/轨迹预测等）
 
 [[link]](https://mp.weixin.qq.com/s/PLKzfoUSkVYYJKiFpwT4Qg)
+
+
 
 
 
@@ -149,4 +155,6 @@ This repository was mainly written by Rujia Wang.
 
 If you have any questions about the paper list, please do not hesitate to email [me](a3081246384@163.com) or open an issue on GitHub.
 
-## TODO
+## 欢迎加入自动驾驶驾驶之心-占用感知交流群
+
+![img.png](pic/img.png)
