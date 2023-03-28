@@ -9,6 +9,10 @@ This repository is a paper digest of recent advances in occupancy perception.
 
 ### 2023
 
+StereoScene: BEV-Assisted Stereo Matching Empowers 3D Semantic Scene Completion
+
+[[paper]](https://arxiv.org/pdf/2303.13959.pdf) [[code]](https://github.com/Arlo0o/StereoScene)
+
 SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving
 
 [[paper]](https://arxiv.org/pdf/2303.09551.pdf) [[code]](https://github.com/weiyithu/SurroundOcc)
