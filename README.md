@@ -9,6 +9,10 @@ This repository is a paper digest of recent advances in occupancy perception.
 
 ### 2023
 
+OccFormer: Dual-path Transformer for Vision-based 3D Semantic Occupancy Prediction
+
+[[paper]](https://arxiv.org/pdf/2304.05316.pdf) [[code]](https://github.com/zhangyp15/OccFormer)
+
 StereoScene: BEV-Assisted Stereo Matching Empowers 3D Semantic Scene Completion
 
 [[paper]](https://arxiv.org/pdf/2303.13959.pdf) [[code]](https://github.com/Arlo0o/StereoScene)
