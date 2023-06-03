@@ -9,6 +9,22 @@ This repository is a paper digest of recent advances in occupancy perception.
 
 ### 2023
 
+BEVDet-Occ
+
+[[code]](https://github.com/HuangJunJie2017/BEVDet)
+
+Occ-BEV: Multi-Camera Unified Pre-training via 3D Scene Reconstruction
+
+[[paper]](https://arxiv.org/pdf/2305.18829.pdf) [[code]](https://github.com/chaytonmin/Occ-BEV)
+
+BEV-IO: Enhancing Bird's-Eye-View 3D Detection with Instance Occupancy
+
+[[paper]](https://arxiv.org/pdf/2305.16829.pdf)
+
+Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving
+
+[[paper]](https://arxiv.org/pdf/2304.14365.pdf) [[code]](https://tsinghua-mars-lab.github.io/Occ3D/)
+
 OccFormer: Dual-path Transformer for Vision-based 3D Semantic Occupancy Prediction
 
 [[paper]](https://arxiv.org/pdf/2304.05316.pdf) [[code]](https://github.com/zhangyp15/OccFormer)
@@ -129,10 +145,6 @@ Grid-Centric Traffic Scenario Perception for Autonomous Driving: A Comprehensive
 
 [[paper]](https://arxiv.org/pdf/2303.01212)
 
-
-
-
-
 ## Open source projects
 
 OpenOcc
@@ -144,10 +156,18 @@ The-Eyes-Have-It
 [[projects]](https://github.com/cheukcat/The-Eyes-Have-It)
 
 
+## Challenge
 
+Autonomous Challenge Driving Track 3 3D Occupancy Prediction 
+
+[[Link]](https://opendrivelab.com/AD23Challenge.html)
 
 
 ## 自动驾驶之心论文解读
+
+清华大学&英伟达最新｜Occ3D：通用全面的大规模3D Occupancy预测基准
+
+[[link]](https://mp.weixin.qq.com/s/GBJaU2KYyaEzXEhaoqiJzg)
 
 Occupancy Network综述！Grid-Centric的感知方法（BEV/多任务/轨迹预测等）
 
