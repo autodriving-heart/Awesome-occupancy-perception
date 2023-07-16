@@ -9,7 +9,11 @@ This repository is a paper digest of recent advances in occupancy perception.
 
 ### 2023
 
-SSC-RS: Elevate LiDAR Semantic Scene Completion with Representation Separation and BEV Fusion
+**[ICCV 2023]** OccNet: Scene as Occupancy
+
+[[paper]](https://arxiv.org/pdf/2306.02851.pdf) [[code]](https://github.com/OpenDriveLab/OccNet)
+
+**[IROS 2023]** SSC-RS: Elevate LiDAR Semantic Scene Completion with Representation Separation and BEV Fusion
 
 [[paper]](https://arxiv.org/pdf/2306.15349.pdf) [[code]](https://github.com/Jieqianyu/SSC-RS)
 
