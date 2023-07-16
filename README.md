@@ -9,6 +9,22 @@ This repository is a paper digest of recent advances in occupancy perception.
 
 ### 2023
 
+SSC-RS: Elevate LiDAR Semantic Scene Completion with Representation Separation and BEV Fusion
+
+[[paper]](https://arxiv.org/pdf/2306.15349.pdf) [[code]](https://github.com/Jieqianyu/SSC-RS)
+
+SSCBench: A Large-Scale 3D Semantic Scene Completion Benchmark for Autonomous Driving
+
+[[paper]](https://arxiv.org/pdf/2306.09001.pdf) [[code]](https://github.com/ai4ce/SSCBench)
+
+OVO: Open-Vocabulary Occupancy
+
+[[paper]](https://arxiv.org/pdf/2305.16133.pdf) [[code]](https://github.com/dzcgaara/OVO-Open-Vocabulary-Occupancy)
+
+PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation
+
+[[paper]](https://arxiv.org/pdf/2306.10013.pdf) [[code]](https://github.com/Robertwyq/PanoOcc)
+
 BEVDet-Occ
 
 [[code]](https://github.com/HuangJunJie2017/BEVDet)
@@ -146,6 +162,10 @@ Grid-Centric Traffic Scenario Perception for Autonomous Driving: A Comprehensive
 [[paper]](https://arxiv.org/pdf/2303.01212)
 
 ## Open source projects
+
+TorchSSC
+
+[[projects]](https://github.com/charlesCXK/TorchSSC)
 
 OpenOcc
 
