@@ -11,7 +11,205 @@ This repository is a paper digest of recent advances in occupancy perception.
 
 ## Paper List
 
+### 2024
+
+InverseMatrixVT3D: An Efficient Projection Matrix-Based Approach for 3D Occupancy Prediction
+
+[[paper]](https://arxiv.org/pdf/2401.12422.pdf) [[code]](https://github.com/DanielMing123/InverseMatrixVT3D)
+
+**[NeurIPS 2023]** POP-3D: Open-Vocabulary 3D Occupancy Prediction from Images
+
+[[paper]](https://arxiv.org/abs/2401.09413) [[code]](https://github.com/vobecant/POP3D)
+
+UniVision: A Unified Framework for Vision-Centric 3D Perception
+
+[[paper]](https://arxiv.org/pdf/2401.06994.pdf) [[code]](https://github.com/Cc-Hy/UniVision)
+
 ### 2023
+
+Fully Sparse 3D Panoptic Occupancy Prediction
+
+[[paper]](https://arxiv.org/pdf/2312.17118.pdf)
+
+**[AAAI 2024]** RadOcc: Learning Cross-Modality Occupancy Knowledge through Rendering Assisted Distillation
+
+[[paper]](https://arxiv.org/pdf/2312.11829.pdf)
+
+**[AAAI 2024]** Regulating Intermediate 3D Features for Vision-Centric Autonomous Driving
+
+[[paper]](https://arxiv.org/pdf/2312.11837.pdf) [[code]](https://github.com/cskkxjk/Vampire)
+
+OccNeRF: Self-Supervised Multi-Camera Occupancy Prediction with Neural Radiance Fields
+
+[[paper]](https://arxiv.org/pdf/2312.09243.pdf) [[code]](https://github.com/LinShan-Bin/OccNeRF)
+
+Camera-based 3D Semantic Scene Completion with Sparse Guidance Network
+
+[[paper]](https://arxiv.org/pdf/2312.05752.pdf) [[code]](https://github.com/Jieqianyu/SGN)
+
+OctreeOcc: Efficient and Multi-Granularity Occupancy Prediction Using Octree Queries
+
+[[paper]](https://arxiv.org/pdf/2312.03774.pdf)
+
+COTR: Compact Occupancy TRansformer for Vision-based 3D Occupancy Prediction
+
+[[paper]](https://arxiv.org/pdf/2312.01919.pdf)
+
+Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications
+
+[[paper]](https://arxiv.org/pdf/2311.17663.pdf) [[code]](https://github.com/haomo-ai/Cam4DOcc)
+
+DepthSSC: Depth-Spatial Alignment and Dynamic Voxel Resolution for Monocular 3D Semantic Scene Completion
+
+[[paper]](https://arxiv.org/pdf/2311.17084.pdf)
+
+OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving
+
+[[paper]](https://arxiv.org/pdf/2311.16038.pdf) [[code]](https://github.com/wzzheng/OccWorld)
+
+Technical Report for Argoverse Challenges on 4D Occupancy Forecasting
+
+[[paper]](https://arxiv.org/pdf/2311.15660.pdf)
+
+SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction
+
+[[paper]](https://arxiv.org/pdf/2311.12754.pdf) [[code]](https://github.com/huang-yh/SelfOcc)
+
+FlashOcc: Fast and Memory-Efficient Occupancy Prediction via Channel-to-Height Plugin
+
+[[paper]](https://arxiv.org/pdf/2311.12058.pdf)
+
+SOccDPT: Semi-Supervised 3D Semantic Occupancy from Dense Prediction Transformers trained under memory constraints
+
+[[paper]](https://arxiv.org/pdf/2311.11371.pdf)
+
+EmerNeRF: Emergent Spatial-Temporal Scene Decomposition via Self-Supervision
+
+[[paper]](https://arxiv.org/pdf/2311.02077.pdf) [[code]](https://github.com/NVlabs/EmerNeRF)
+
+Alleviating Foreground Sparsity for Semi-Supervised Monocular 3D Object Detection
+
+[[paper]](https://arxiv.org/pdf/2310.18620.pdf) [[code]](https://github.com/arcaninez/odm3d)
+
+LiDAR-based 4D Occupancy Completion and Forecasting
+
+[[paper]](https://arxiv.org/pdf/2310.11239.pdf) [[code]](https://github.com/ai4ce/Occ4cast)
+
+S4C: Self-Supervised Semantic Scene Completion with Neural Fields
+
+[[paper]](https://arxiv.org/pdf/2310.07522.pdf) [[code]](https://github.com/ahayler/s4c)
+
+Predicting Future Spatiotemporal Occupancy Grids with Semantics for Autonomous Driving
+
+[[paper]](https://arxiv.org/pdf/2310.01723.pdf)
+
+Scene Informer: Anchor-based Occlusion Inference and Trajectory Prediction in Partially Observable Environments
+
+[[paper]](https://arxiv.org/pdf/2309.13893.pdf) [[code]](https://github.com/sisl/SceneInformer)
+
+**[ICRA2024]** PointSSC: A Cooperative Vehicle-Infrastructure Point Cloud Benchmark for Semantic Scene Completion
+
+[[paper]](https://arxiv.org/pdf/2309.12708.pdf)
+
+OCC-VO: Dense Mapping via 3D Occupancy-Based Visual Odometry for Autonomous Driving
+
+[[paper]](https://arxiv.org/pdf/2309.11011.pdf) [[code]](https://github.com/USTCLH/OCC-VO)
+
+SPOT: Scalable 3D Pre-training via Occupancy Prediction for Autonomous Driving
+
+[[paper]](https://arxiv.org/pdf/2309.10527.pdf)
+
+RenderOcc: Vision-Centric 3D Occupancy Prediction with 2D Rendering Supervision
+
+[[paper]](https://arxiv.org/pdf/2309.09502.pdf) [[code]](https://github.com/pmj110119/RenderOcc)
+
+OccupancyDETR: Making Semantic Scene Completion as Straightforward as Object Detection
+
+[[paper]](https://arxiv.org/pdf/2309.08504.pdf) [[code]](https://github.com/jypjypjypjyp/OccupancyDETR)
+
+**[ITSC 2023]** Connected Autonomous Vehicle Motion Planning with Video Predictions from Smart, Self-Supervised Infrastructure
+
+[[paper]](https://arxiv.org/pdf/2309.07504.pdf)
+
+PointOcc: Cylindrical Tri-Perspective View for Point-based 3D Semantic Occupancy Prediction
+
+[[paper]](https://arxiv.org/pdf/2308.16896.pdf) [[code]](https://github.com/wzzheng/PointOcc)
+
+**[AAAI2024]** SOGDet: Semantic-Occupancy Guided Multi-view 3D Object Detection
+
+[[paper]](https://arxiv.org/pdf/2308.13794.pdf) [[code]](https://github.com/zhouqiu/SOGDet)
+
+**[ICCV 2023]** MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection
+
+[[paper]](https://arxiv.org/pdf/2308.09421.pdf) [[code]](https://github.com/cskkxjk/MonoNeRD)
+
+UniWorld: Autonomous Driving Pre-training via World Models
+
+[[paper]](https://arxiv.org/pdf/2308.07234.pdf) [[code]](https://github.com/chaytonmin/UniWorld)
+
+**[IROS 2023]** Vehicle Motion Forecasting using Prior Information and Semantic-assisted Occupancy Grid Maps
+
+[[paper]](https://arxiv.org/pdf/2308.04303.pdf)
+
+Implicit Occupancy Flow Fields for Perception and Prediction in Self-Driving
+
+[[paper]](https://arxiv.org/pdf/2308.01471.pdf) [[code]](https://waabi.ai/research/implicito)
+
+FusionAD: Multi-modality Fusion for Prediction and Planning Tasks of Autonomous Driving
+
+[[paper]](https://arxiv.org/pdf/2308.01006.pdf)
+
+OCTraN: 3D Occupancy Convolutional Transformer Network in Unstructured Traffic Scenarios
+
+[[paper]](https://arxiv.org/pdf/2307.10934.pdf) [[code]](https://drive.google.com/file/d/1IFUxbx1hI7iA7uXxilfq-Z0JXMGEU2Zb/view?usp=sharing)
+
+CVSformer: Cross-View Synthesis Transformer for Semantic Scene Completion
+
+[[paper]](https://arxiv.org/pdf/2307.07938.pdf)
+
+Parametric Depth Based Feature Representation Learning for Object Detection and Segmentation in Bird's Eye View
+
+[[paper]](https://arxiv.org/pdf/2307.04106.pdf)
+
+**[CVPR 2023 Challenge]** FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation
+
+[[paper]](https://arxiv.org/pdf/2307.01492.pdf) [[code]](https://github.com/NVlabs/FB-BEV)
+
+**[TIV]** LXL: LiDAR Excluded Lean 3D Object Detection with 4D Imaging Radar and Camera Fusion
+
+[[paper]](https://arxiv.org/pdf/2307.00724.pdf)
+
+Symphonize 3D Semantic Scene Completion with Contextual Instance Queries
+
+[[paper]](https://arxiv.org/pdf/2306.15670.pdf) [[code]](https://github.com/hustvl/Symphonies)
+
+**[CVPR 2023 Challenge]** Multi-Scale Occ: 4th Place Solution for CVPR 2023 3D Occupancy Prediction Challenge          
+
+[[paper]](https://arxiv.org/pdf/2306.11414.pdf)
+
+**[CVPR 2023 Challenge]** UniOcc: Unifying Vision-Centric 3D Occupancy Prediction with Geometric and Semantic Rendering          
+
+[[paper]](https://arxiv.org/pdf/2306.09117.pdf)
+
+UniScene: Multi-Camera Unified Pre-training via 3D Scene Reconstruction
+
+[[paper]](https://arxiv.org/pdf/2305.18829) [[code]](https://github.com/chaytonmin/UniScene)
+
+Learning Occupancy for Monocular 3D Object Detection
+
+[[paper]](https://arxiv.org/pdf/2305.15694.pdf) [[code]](https://github.com/SPengLiang/OccupancyM3D)
+
+**[CVPR 2023]** GeoMAE: Masked Geometric Target Prediction for Self-supervised Point Cloud Pre-Training          
+
+[[paper]](https://arxiv.org/pdf/2305.08808.pdf) [[code]](https://github.com/Tsinghua-MARS-Lab/GeoMAE)
+
+**[ITSC 2023]** Occupancy Prediction-Guided Neural Planner for Autonomous Driving
+
+[[paper]](https://arxiv.org/pdf/2305.03303.pdf) [[code]](https://github.com/georgeliu233/OPGP)
+
+A Simple Framework for 3D Occupancy Estimation in Autonomous Driving
+
+[[paper]](https://arxiv.org/pdf/2303.10076.pdf) [[code]](https://github.com/GANWANSHUI/SimpleOccupancy)
 
 **[ICCV 2023]** OccNet: Scene as Occupancy
 
