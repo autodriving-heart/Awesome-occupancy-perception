@@ -361,11 +361,7 @@ Semantic Scene Completion from a Single Depth Image
 
 ## Survey
 
-### 2023
-
-Grid-Centric Traffic Scenario Perception for Autonomous Driving: A Comprehensive Review
-
-[[paper]](https://arxiv.org/pdf/2303.01212)
+### 2024
 
 A Survey on Occupancy Perception for Autonomous Driving: The Information Fusion Perspective
 
@@ -375,6 +371,12 @@ Vision-based 3D occupancy prediction in autonomous driving: a review and outlook
 
 [[paper]](https://arxiv.org/pdf/2405.02595)
 
+
+### 2023
+
+Grid-Centric Traffic Scenario Perception for Autonomous Driving: A Comprehensive Review
+
+[[paper]](https://arxiv.org/pdf/2303.01212)
 
 ## Open source projects
 
