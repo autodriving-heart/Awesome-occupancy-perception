@@ -367,6 +367,15 @@ Grid-Centric Traffic Scenario Perception for Autonomous Driving: A Comprehensive
 
 [[paper]](https://arxiv.org/pdf/2303.01212)
 
+A Survey on Occupancy Perception for Autonomous Driving: The Information Fusion Perspective
+
+[[paper]](https://arxiv.org/pdf/2405.05173)
+
+Vision-based 3D occupancy prediction in autonomous driving: a review and outlook
+
+[[paper]](https://arxiv.org/pdf/2405.02595)
+
+
 ## Open source projects
 
 TorchSSC
